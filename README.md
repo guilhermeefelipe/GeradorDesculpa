@@ -1,73 +1,21 @@
-# Welcome to your Lovable project
+# 🤖 Gerador de Desculpas com Webhook para n8n
 
-## Project info
+Este é um projeto que gera desculpas aleatórias e as envia automaticamente para um webhook do [n8n](https://n8n.io), permitindo que você use essas desculpas em automações criativas, relatórios, mensagens automáticas e muito mais.
 
-**URL**: https://lovable.dev/projects/591408d9-8bcb-44ea-b1f1-e9042371805c
+link do webhook: https://guilhermeatanazio.app.n8n.cloud/workflow/q9MNPFqxgJWTtTOn
 
-## How can I edit this code?
+![imagem_2025-05-22_225507330](https://github.com/user-attachments/assets/3c9961a6-db7f-4baa-8dc9-c3b014cc108e)
 
-There are several ways of editing your application.
+## 🚀 Funcionalidades
 
-**Use Lovable**
+- Geração de desculpas aleatórias e personalizadas
+- Envio automático para um webhook do n8n
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/591408d9-8bcb-44ea-b1f1-e9042371805c) and start prompting.
+## 🛠 Tecnologias utilizadas
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
+- Webhook do n8n
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/591408d9-8bcb-44ea-b1f1-e9042371805c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
